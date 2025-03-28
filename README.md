@@ -24,155 +24,91 @@
   - 📂 Projetos open source
 
 ---
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Domínio Tecnológico</title>
-    <style>
-        .tech-section {
-            max-width: 800px;
-            margin: 2rem auto;
-            padding: 0 1rem;
-        }
+## 🛠️ Domínio Tecnológico
 
-        .category-header {
-            background-color: #2d2d2d;
-            padding: 12px;
-            border-radius: 8px;
-            width: 150px;
-            color: white;
-            font-weight: bold;
-            margin: 20px 0;
-        }
+<table>
+  <tr>
+    <td colspan="4">
+      <div style="background-color: #2d2d2d; padding: 12px; border-radius: 8px; width: 150px; margin-bottom: 15px">💻 Linguagens</div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"><br>
+      <span style="color: #F7DF1E; font-size: 0.9em">JavaScript</span>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"><br>
+      <span style="color: #3776AB; font-size: 0.9em">Python</span>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"><br>
+      <span style="color: #00599C; font-size: 0.9em">C++</span>
+    </td>
+  </tr>
+</table>
 
-        .tech-grid {
-            display: flex;
-            gap: 25px;
-            flex-wrap: wrap;
-            padding: 15px;
-        }
+<table>
+  <tr>
+    <td colspan="4">
+      <div style="background-color: #2d2d2d; padding: 12px; border-radius: 8px; width: 150px; margin-bottom: 15px">🌐 Front-end</div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"><br>
+      <span style="color: #61DAFB; font-size: 0.9em">React</span>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"><br>
+      <span style="color: #E34F26; font-size: 0.9em">HTML5</span>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"><br>
+      <span style="color: #1572B6; font-size: 0.9em">CSS3</span>
+    </td>
+  </tr>
+</table>
 
-        .tech-item {
-            text-align: center;
-            transition: transform 0.3s ease;
-        }
+<table>
+  <tr>
+    <td colspan="4">
+      <div style="background-color: #2d2d2d; padding: 12px; border-radius: 8px; width: 150px; margin-bottom: 15px">⚙️ Back-end</div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"><br>
+      <span style="color: #00758F; font-size: 0.9em">MySQL</span>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" title="PHP"><br>
+      <span style="color: #777BB4; font-size: 0.9em">PHP</span>
+    </td>
+  </tr>
+</table>
 
-        .tech-item:hover {
-            transform: translateY(-5px);
-        }
-
-        .tech-icon {
-            width: 50px;
-            height: 50px;
-        }
-
-        .tech-label {
-            margin-top: 8px;
-            font-size: 0.9em;
-            font-family: Arial, sans-serif;
-        }
-
-        /* Cores específicas para cada tecnologia */
-        .color-js { color: #F7DF1E; }
-        .color-python { color: #3776AB; }
-        .color-cpp { color: #00599C; }
-        .color-react { color: #61DAFB; }
-        .color-html { color: #E34F26; }
-        .color-css { color: #1572B6; }
-        .color-mysql { color: #00758F; }
-        .color-php { color: #777BB4; }
-        .color-arduino { color: #00979D; }
-        .color-raspberry { color: #C51A4A; }
-        .color-docker { color: #2496ED; }
-
-        @media (max-width: 768px) {
-            .tech-grid {
-                gap: 15px;
-                justify-content: center;
-            }
-        }
-    </style>
-</head>
-<body>
-    <section class="tech-section">
-        <h2>🛠️ Domínio Tecnológico</h2>
-
-        <div class="category-header">💻 Linguagens</div>
-        <div class="tech-grid">
-            <div class="tech-item">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-                     alt="JavaScript" class="tech-icon">
-                <div class="tech-label color-js">JavaScript</div>
-            </div>
-            <div class="tech-item">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-                     alt="Python" class="tech-icon">
-                <div class="tech-label color-python">Python</div>
-            </div>
-            <div class="tech-item">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
-                     alt="C++" class="tech-icon">
-                <div class="tech-label color-cpp">C++</div>
-            </div>
-        </div>
-
-        <div class="category-header">🌐 Front-end</div>
-        <div class="tech-grid">
-            <div class="tech-item">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-                     alt="React" class="tech-icon">
-                <div class="tech-label color-react">React</div>
-            </div>
-            <div class="tech-item">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-                     alt="HTML5" class="tech-icon">
-                <div class="tech-label color-html">HTML5</div>
-            </div>
-            <div class="tech-item">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-                     alt="CSS3" class="tech-icon">
-                <div class="tech-label color-css">CSS3</div>
-            </div>
-        </div>
-
-        <div class="category-header">⚙️ Back-end</div>
-        <div class="tech-grid">
-            <div class="tech-item">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-                     alt="MySQL" class="tech-icon">
-                <div class="tech-label color-mysql">MySQL</div>
-            </div>
-            <div class="tech-item">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
-                     alt="PHP" class="tech-icon">
-                <div class="tech-label color-php">PHP</div>
-            </div>
-        </div>
-
-        <div class="category-header">🔧 Outras</div>
-        <div class="tech-grid">
-            <div class="tech-item">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" 
-                     alt="Arduino" class="tech-icon">
-                <div class="tech-label color-arduino">Arduino</div>
-            </div>
-            <div class="tech-item">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" 
-                     alt="Raspberry Pi" class="tech-icon">
-                <div class="tech-label color-raspberry">Raspberry Pi</div>
-            </div>
-            <div class="tech-item">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
-                     alt="Docker" class="tech-icon">
-                <div class="tech-label color-docker">Docker</div>
-            </div>
-        </div>
-    </section>
-</body>
-</html>
-
+<table>
+  <tr>
+    <td colspan="4">
+      <div style="background-color: #2d2d2d; padding: 12px; border-radius: 8px; width: 150px; margin-bottom: 15px">🔧 Outras</div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" title="Arduino"><br>
+      <span style="color: #00979D; font-size: 0.9em">Arduino</span>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50" title="Raspberry Pi"><br>
+      <span style="color: #C51A4A; font-size: 0.9em">Raspberry Pi</span>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"><br>
+      <span style="color: #2496ED; font-size: 0.9em">Docker</span>
+    </td>
+  </tr>
+</table>
 
 ## 📌 Projetos Destacados
 
