@@ -184,4 +184,4 @@
 📧 **Email**: [Email Proficional](J.estevao.m.junior@gmail.com)  
 🔗 **Portfólio**: [em construção...]<br>
 💼 **LinkedIn**: [Estevão Junior](https://www.linkedin.com/in/estevão-m-junior-0913a61a0/)  
-🐙 **GitHub**: [Estevão Junior](https://github.com/seu-usuario)
+🐙 **GitHub**: [Estevão Junior](https://github.com/STV0-Junior)
