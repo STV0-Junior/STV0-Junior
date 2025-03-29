@@ -4,7 +4,7 @@
 
 🚀 Desenvolvedor Full Stack, e com um projeto premiado de tecnologia embarcada. Apaixonado por criar soluções inovadoras que unem hardware e software. Sempre em busca de novos desafios e aprendizado contínuo.
 
-🔗 [Portfólio Online](https://seusite.com) | 📧 [Contato](mailto:seuemail@provedor.com) | 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)
+🔗 [Portfólio Online(Em construção)](https://seusite.com) | 📧 [Contato](J.estevao.m.junior@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/estevão-m-junior-0913a61a0/)  
 
 ---
 
