@@ -2,7 +2,7 @@
 
 [![Banner Personalizado](https://via.placeholder.com/1024x300/33363C/FFFFFF?text=Estevão+Junior+-+Desenvolvedor+Full+Stack)](https://seusite.com)
 
-🚀 Desenvolvedor Full Stack com experiência em projetos premiados de tecnologia embarcada. Apaixonado por criar soluções inovadoras que unem hardware e software. Sempre em busca de novos desafios e aprendizado contínuo.
+🚀 Desenvolvedor Full Stack, e com um projeto premiado de tecnologia embarcada. Apaixonado por criar soluções inovadoras que unem hardware e software. Sempre em busca de novos desafios e aprendizado contínuo.
 
 🔗 [Portfólio Online](https://seusite.com) | 📧 [Contato](mailto:seuemail@provedor.com) | 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)
 
