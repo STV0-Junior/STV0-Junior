@@ -16,8 +16,9 @@
   - 🛒 E-commerce completo com painel administrativo
   - 🌐 Aplicações web responsivas
 - 🌱 **Aprendendo atualmente:**
-  - <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
-  - <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
+  - Php
+  -java
+  -construção e manutenção de servidores
 - 👯 **Busco colaborar em:**
   - 🤖 Projetos embarcados e IoT
   - 🖥️ Sistemas web completos (full stack)
