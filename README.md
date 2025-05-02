@@ -1,6 +1,5 @@
 # Olá, eu sou Estevão Junior! 👋
 
-[![Banner Personalizado](https://via.placeholder.com/1024x300/33363C/FFFFFF?text=Estevão+Junior+-+Desenvolvedor+Full+Stack)](https://seusite.com)
 
 🚀 Desenvolvedor Full Stack, e com um projeto premiado de tecnologia embarcada. Apaixonado por criar soluções inovadoras que unem hardware e software. Sempre em busca de novos desafios e aprendizado contínuo.
 
@@ -111,6 +110,29 @@
   </tr>
 </table>
 
+---
+
+## 🚀 Projetos Destacados
+
+**🏆 HydroGuard - Monitoramento Hidráulico IoT**  
+Sistema premiado com Arduino para detectar vazamentos de água (95% de precisão), reduzindo desperdício em 40%. Integra sensores, LoRaWAN e dashboard web.
+
+**🛒 E-commerce Full Stack (Dicazo)**  
+Plataforma completa com PHP/MySQL, painel administrativo, carrinho dinâmico e exportação de dados. Implementa segurança contra SQL injection.
+
+**🚀 Água Express - Pedidos via WhatsApp**  
+Sistema otimizado para delivery de água com cálculo automático de preços e integração direta com WhatsApp para envio de pedidos.
+
+**📂 FileOrganizer (Python)**  
+Ferramenta para organização automática de arquivos em categorias, prevenindo sobrescrita e economizando 90% do tempo manual.
+
+**🧮 Calculadora 3D**  
+Solução para precificação de impressões 3D considerando tempo, material e margem de lucro, com histórico de cálculos.
+
+**🍕 Pizzaria Deep** *(Em desenvolvimento)*  
+Plataforma de pedidos com cardápio interativo, carrinho de compras e design responsivo.
+
+---
 
 
 ## 📞 Contato
