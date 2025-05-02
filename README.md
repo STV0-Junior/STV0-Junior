@@ -111,78 +111,11 @@
   </tr>
 </table>
 
-## 📌 Projetos Destacados
 
-### 🏆 Projeto Embarcado Premiado  
-**HydroGuard - Sistema Inteligente de Monitoramento Hidráulico com Detecção Ativa de Vazamentos**  
-**Descrição**: Solução IoT premiada como *"Melhor Projeto de Sustentabilidade em Hardware"* em competição de tecnologia, capaz de prevenir desperdícios hídricos e danos ambientais através de:  
-- ⚡ Monitoramento em tempo real de vazão e consumo de líquidos  
-- 🚨 Algoritmo de detecção proativa de vazamentos com 95% de precisão  
-- 📟 Dualidade de interfaces: LCD para operação local + Serial para análise remota  
-- ⏱️ Simulação adaptável de cenários (12h/24h) para previsão de consumo  
-
-**Tecnologias**:  
-🛠️ `Arduino UNO` | `Sensor de Fluxo YF-S201` | `Interrupções`  
-📊 `LCD 16x2` | `Protocolo Serial` | `C/C++ Embarcado`  
-🔋 `Low-power design` (autonomia de 72h em bateria 9V)
-
-
-
-**Diferenciais**:  
-✅ Certificado ISO 9001 para sistemas de monitoramento hídrico  
-✅ Integrável com redes LoRaWAN para aplicações em *smart cities*  
-✅ Biblioteca customizada `HydroAlerts` para análise de padrões  
-
-**Impacto**:  
-➡️ Redução de até 40% no desperdício de água em testes de campo  
-➡️ Adaptável para residências, indústrias e agricultura de precisão  
-
----
-
-✨ **Observação**:  
-*Os componentes e lógica apresentados no código original foram ampliados com módulos de comunicação wireless e técnicas de machine learning em versões posteriores, mantendo a base sólida aqui demonstrada.*
-
-
-## 🛒 E-commerce Full Stack  
-**Descrição**: Sistema completo de e-commerce com painel administrativo para gerenciamento de produtos, banners e estoque.  
-
-**Stack**:  
-🛠️ `PHP` | `MySQL` | `JavaScript` | `HTML/CSS`  
-
----
-
-### 📋 Features Principais  
-
-#### 📦 **Gerenciamento de Produtos**  
-- Adição/edição/exclusão de produtos com categorização  
-- Upload dinâmico de imagens (drag-and-drop)  
-- Controle de estoque por tamanhos (2, 4, 6, 8, 10)  
-- Armazenamento de imagens em base64 no banco de dados  
-
-#### 🖼️ **Gerenciamento de Banners**  
-- Upload e organização de banners promocionais  
-- Visualização prévia em tempo real  
-- Limite inteligente de 5 banners ativos simultâneos  
-
-#### ⚙️ **Painel Administrativo**  
-- Interface intuitiva com sistema de login seguro  
-- Busca avançada com filtros multiplos  
-- Exportação de dados para Excel (CSV)  
-- Notificações interativas para feedback de ações  
-
----
-
-### 🔒 Segurança  
-- Autenticação de usuários com sessões criptografadas  
-- Dupla validação (cliente/servidor) de dados  
-- Proteção contra SQL injection e XSS  
-- Sanitização de inputs em tempo real  
-
----
 
 ## 📞 Contato
 
 📧 **Email**: [Email Profissional](J.estevao.m.junior@gmail.com)  
 🔗 **Portfólio**: [Portfólio Online](https://slategray-snake-275855.hostingersite.com)                                           
 💼 **LinkedIn**: [Estevão Junior](https://www.linkedin.com/in/estevão-m-junior-0913a61a0/)  
-🐙 **GitHub**: [Estevão Junior](https://github.com/STV0-Junior)
+
