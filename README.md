@@ -132,6 +132,11 @@ Solução para precificação de impressões 3D considerando tempo, material e m
 **🍕 Pizzaria Deep** *(Em desenvolvimento)*  
 Plataforma de pedidos com cardápio interativo, carrinho de compras e design responsivo.
 
+🚀 Quer ver esses projetos em ação?
+Visite meu portfólio completo e explore cada detalhe:
+👉 https://slategray-snake-275855.hostingersite.com
+
+Disponível também para contato profissional!
 ---
 
 
