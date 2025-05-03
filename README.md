@@ -18,8 +18,8 @@
   - 🌐 crição de aplicações personalizadas e automaticas para o usso do dia a dia
 - 🌱 **Aprendendo atualmente:**
   - Php
-  -java
-  -construção e manutenção de servidores
+  - java
+  - Construção e manutenção de servidores
 - 👯 **Busco colaborar em:**
   - 🤖 Projetos embarcados e IoT
   - 🖥️ Sistemas web completos (full stack)
