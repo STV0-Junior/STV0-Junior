@@ -115,7 +115,7 @@
 ## 🚀 Projetos Destacados
 
 **🏆 HydroGuard - Monitoramento Hidráulico IoT**  
-Sistema premiado com Arduino para detectar vazamentos de água (95% de precisão), reduzindo desperdício em 40%. Integra sensores, LoRaWAN e dashboard web.
+Sistema premiado com Arduino para detectar vazamentos de água (95% de precisão), reduzindo desperdício em 40%. Integra sensores para a visualização atraves de um painel lcd.
 
 **🛒 E-commerce Full Stack (Dicazo)**  
 Plataforma completa com PHP/MySQL, painel administrativo, carrinho dinâmico e exportação de dados. Implementa segurança contra SQL injection.
