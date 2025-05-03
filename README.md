@@ -12,8 +12,10 @@
 - 💻 **3+ anos** de experiência em desenvolvimento full stack
 - 🏆 **Premiado** em projeto de tecnologia embarcada (Publicado em revista científica)
 - 🔭 **Atualmente trabalhando em:**
-  - 🛒 E-commerce completo com painel administrativo
+  - 🌐 E-commerce completo com painel administrativo
   - 🌐 Aplicações web responsivas
+  - 🌐 Engenheiro de software personalizados
+  - 🌐 crição de aplicações personalizadas e automaticas para o usso do dia a dia
 - 🌱 **Aprendendo atualmente:**
   - Php
   -java
