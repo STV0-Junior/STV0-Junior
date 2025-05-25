@@ -9,6 +9,9 @@
 
 ---
 
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seunome)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 🚀 Sobre Mim
 
 - 💻 **3+ anos** de experiência em desenvolvimento full stack
