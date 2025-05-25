@@ -9,7 +9,7 @@
 
 ---
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seunome)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=STV0-Junior)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🚀 Sobre Mim
