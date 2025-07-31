@@ -140,7 +140,7 @@ Solução para precificação de impressões 3D considerando tempo, material e m
 Website profissional desenvolvido para empresa especializada em conserto de eletrodomésticos. Possui formulário com envio direto para o WhatsApp, design responsivo, otimização para SEO e apresentação clara dos serviços.  
 
 **🤝 Programa de Indicações - CodJems**  
-Apresentação interativa em PDF para atrair parceiros comerciais. Detalha serviços oferecidos (landing pages, automações, e-commerce), diferenciais da equipe e comissão por indicações bem-sucedidas.  
+Apresentação detalha serviços oferecidos (landing pages, automações, e-commerce), diferenciais da equipe e comissão por indicações bem-sucedidas.  
 Inclui integração com GitHub, portfólio de projetos e formulário personalizado.  
 
 **🍕 Pizzaria Deep** *(Em desenvolvimento)*  
