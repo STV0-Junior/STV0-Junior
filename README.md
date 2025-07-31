@@ -135,7 +135,6 @@ Ferramenta para organização automática de arquivos em categorias, prevenindo 
 
 **🧮 Calculadora 3D**  
 Solução para precificação de impressões 3D considerando tempo, material e margem de lucro, com histórico de cálculos.
-## 🚀 Projetos Destacados
 
 **🧊 D&I Assistência Técnica - Site Institucional**  
 Website profissional desenvolvido para empresa especializada em conserto de eletrodomésticos. Possui formulário com envio direto para o WhatsApp, design responsivo, otimização para SEO e apresentação clara dos serviços.  
