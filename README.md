@@ -20,7 +20,7 @@
   - 🌐 E-commerce completo com painel administrativo
   - 🌐 Aplicações web responsivas
   - 🌐 Engenheiro de software personalizados
-  - 🌐 crição de aplicações personalizadas e automaticas para o usso do dia a dia
+  - 🌐 crição de aplicações personalizadas e automaticas para o usos do dia a dia
 - 🌱 **Aprendendo atualmente:**
   - Php
   - java
